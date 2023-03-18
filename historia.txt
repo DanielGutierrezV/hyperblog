@@ -1,1 +1,2 @@
-esta es la hisoria de Daniel
+esta es la hisoria de Daniel y tiene 21 years old
+echo cd c/Users/USUARIO >> ~/.bashrc
